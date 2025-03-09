@@ -19,7 +19,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-inline: 30px;
+    padding-inline: 31px;
 }
 
 .logo img {
